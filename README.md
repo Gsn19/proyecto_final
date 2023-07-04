@@ -1,4 +1,4 @@
-# Menú Proyecto Final
+# MENU PROYECTO FINAL
 
 Josue Xona Valdez
 Lucia Alexandra Lopez Chavarria
